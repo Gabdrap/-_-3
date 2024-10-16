@@ -9,7 +9,7 @@ string time;
 
 int main()
 {
-    SetConsoleCp(1251);
-    SetConsoleOutputCp(1251);
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
 
 }
